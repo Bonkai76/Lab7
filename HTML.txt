@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="lib\style.css"
+</head>
+<body>
+  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 0L12.2451 6.90983H19.5106L13.6327 11.1803L15.8779 18.0902L10 13.8197L4.12215 18.0902L6.36729 11.1803L0.489435 6.90983H7.75486L10 0Z" fill="#F9EF10"/>
+  </svg>
+  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 0L12.2451 6.90983H19.5106L13.6327 11.1803L15.8779 18.0902L10 13.8197L4.12215 18.0902L6.36729 11.1803L0.489435 6.90983H7.75486L10 0Z" fill="#F9EF10"/>
+  </svg>
+  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 0L12.2451 6.90983H19.5106L13.6327 11.1803L15.8779 18.0902L10 13.8197L4.12215 18.0902L6.36729 11.1803L0.489435 6.90983H7.75486L10 0Z" fill="#F9EF10"/>
+  </svg>
+  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 0L12.2451 6.90983H19.5106L13.6327 11.1803L15.8779 18.0902L10 13.8197L4.12215 18.0902L6.36729 11.1803L0.489435 6.90983H7.75486L10 0Z" fill="#F9EF10"/>
+  </svg>
+  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 0L12.2451 6.90983H19.5106L13.6327 11.1803L15.8779 18.0902L10 13.8197L4.12215 18.0902L6.36729 11.1803L0.489435 6.90983H7.75486L10 0Z" fill="#F9EF10"/>
+  </svg>
+  <div class="skill-block left-block" style="background-color:white; border:0px">
+    <img src="https://sun6-23.userapi.com/s/v1/ig2/tOBdMw_sDo8Z8tlvew1ilAoztyWUlnOynUciyy2BXgoxaBh-e-_IJOyp97V5__8eBVkWlDd_hmqdW6OzS15DO54K.jpg?size=1074x1074&quality=95&crop=5,25,1074,1074&ava=1" width= "150">
+  </div>
+  <div class="skill-block right-block" style="width:320px">
+    <p>О себе:<br>Я успешный, психически здоровый мужчина. Мой рост 2 метра, вес 100кг, я мускулист, спортивен, начитан, успешен, одеваюсь в брендовых магазинах, имею свою квартиру в центре ДС, приличное чувство юмора и широкий круг интересов.</p>
+  </div>
+  <div class="skill-block left-block">
+    <p>Контакты:<br><br>Телефон: +77777777777 <br>Электронная почта: DeadInsult@gmail.com<br>Город: Ярославль<br> Имя: Абсолют </p>
+  </div>
+  <div class="skill-block right-block" style="background-color:white; border:0px">
+    <img src="https://sun9-48.userapi.com/impg/cQ5eJx3xvmgTkqukN2-gSAlGeTaMAaF9F_apJQ/T_S6MHk-tss.jpg?size=700x500&quality=95&sign=345ccf8a9fc25defae5d9d196e948ab3&c_uniq_tag=ANBp6f39iHgXcHyhBsSniU55Yvig1Fq1JbSLFr6_OgQ&type=album" width="310" height="160" >
+  </div>
+  <div class="skill-block left-block">
+    <p> Навыки Языков:<br><br>Русский<br><br>Английский<br></p>
+  </div>
+  <div class="skill-block right-block">
+    <p>Обучение:<br><br>Ярославский Государственный Технический Университет<br>09.03.04 - “Программная Инженерия”<br>1 курс</p>
+  </div>
+  <div class="skill-block left-block">
+    <p>Направления, которые наиболее интересны:<br><br>Разработка программного обеспечения<br>Базы данных<br>Разработка игр</p>
+  </div>
+  <div class="skill-block right-block">
+    <p>Навыки:<br><br>Проектирование баз данных<br>Создание десктопных приложений<br>Веб-разработка</p>
+  </div>
+  <div class="down-block left-block">
+    <p>Интересные мне профессии:<br>Разработчик программного обеспечения<br>DevOps инженер</p>
+  </div>
+  <div class="skill-block right-block">
+    <p>Языки програмирования:<br><br>C#<br>C++<br>JAVA</p>
+  </div>
+  <div class="down-block left-block">
+    <p>Интересы:<br>Следить за развитием игровой индустрии<br>Музыкальные инструменты</p>
+  </div>
+</body>
+</html>
